@@ -1,0 +1,2 @@
+A program that quickly summarizes how often keywords appear in a file.
+First argument to the program is the file you want to analyze and then the keywords you want to count.
